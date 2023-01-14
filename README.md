@@ -3,7 +3,7 @@ My implementation of the course 100 Days of Code: The Complete Python Pro Bootca
 
 [Link to Course](https://www.udemy.com/course/100-days-of-code/)
 
-# Section 1: Day 1 - Beginner - Working with Variables in Python to Manage Data
+# [Day_1](https://github.com/Mrezamaleki/100_days_py/tree/main/day_1) - Beginner - Working with Variables in Python to Manage Data
 - Print()
 - Debugging
 - Input Function
@@ -11,4 +11,4 @@ My implementation of the course 100 Days of Code: The Complete Python Pro Bootca
 - Variable Naming
 - Day 1 Project: Band Name Generator
 
-[Day_1](https://github.com/Mrezamaleki/100_days_py/tree/main/day_1)
+
