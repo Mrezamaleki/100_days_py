@@ -3,7 +3,7 @@ My implementation of the course 100 Days of Code: The Complete Python Pro Bootca
 
 [Link to Course](https://www.udemy.com/course/100-days-of-code/)
 
-# [Day_1](https://github.com/Mrezamaleki/100_days_py/tree/main/day_1) - Beginner - Working with Variables in Python to Manage Data
+# [Day 1](https://github.com/Mrezamaleki/100_days_py/tree/main/day_1) - Beginner - Working with Variables in Python to Manage Data
 - Print()
 - Debugging
 - Input Function
