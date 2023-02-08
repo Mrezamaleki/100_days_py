@@ -9,3 +9,4 @@ My implementation of the course 100 Days of Code: The Complete Python Pro Bootca
 
 [Day 3](https://github.com/Mrezamaleki/100_days_py/tree/main/day_3) - Beginner - Control Flow and Logical Operators
 
+[Day 4](https://github.com/Mrezamaleki/100_days_py/tree/main/day_4) - Beginner - Randomisation and Python Lists
