@@ -12,3 +12,5 @@ My implementation of the course 100 Days of Code: The Complete Python Pro Bootca
 [Day 4](https://github.com/Mrezamaleki/100_days_py/tree/main/day_4) - Beginner - Randomisation and Python Lists
 
 [Day 5](https://github.com/Mrezamaleki/100_days_py/tree/main/day_5) - Beginner - Python Loops
+
+[Day 6](https://github.com/Mrezamaleki/100_days_py/tree/main/day_6) - Beginner - Python Functions & Karel
