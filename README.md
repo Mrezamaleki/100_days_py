@@ -18,3 +18,5 @@ My implementation of the course 100 Days of Code: The Complete Python Pro Bootca
 [Day 7](https://github.com/Mrezamaleki/100_days_py/tree/main/day_7) - Beginner - Hangman
 
 [Day 8](https://github.com/Mrezamaleki/100_days_py/tree/main/day_8) - Beginner - Function Parameters & Caesar Cipher
+
+[Day 9](https://github.com/Mrezamaleki/100_days_py/tree/main/day_9) - Beginner - Dictionaries, Nesting and the Secret Auction
