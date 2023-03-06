@@ -24,3 +24,5 @@ My implementation of the course 100 Days of Code: The Complete Python Pro Bootca
 [Day 10](https://github.com/Mrezamaleki/100_days_py/tree/main/day_10) - Beginner - Functions with Outputs
 
 [Day 11](https://github.com/Mrezamaleki/100_days_py/tree/main/day_11) - Beginner - The Blackjacket Capstone Project
+
+[Day 12](https://github.com/Mrezamaleki/100_days_py/tree/main/day_12) - Beginner - Scope & Number Guessing Game
