@@ -1,0 +1,9 @@
+# Beginner - Debugging: How to Find and Fix Errors in your Code
+- Describing the Problem
+- Reproducing the Bug
+- Playing Computer and Evaluating Each Line
+- Squashing bugs with a print() Statement
+- Using a Debugger
+- Exercise 1: Debugging Odd or Even
+- Exercise 2: Debugging Leap Year
+- Exercise 3: Debugging FizzBuzz
