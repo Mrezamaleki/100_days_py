@@ -30,3 +30,5 @@ My implementation of the course 100 Days of Code: The Complete Python Pro Bootca
 [Day 13](https://github.com/Mrezamaleki/100_days_py/tree/main/day_013) - Beginner - How to Find and Fix Errors in your Code
 
 [Day 14](https://github.com/Mrezamaleki/100_days_py/tree/main/day_014) - Beginner - Higher Lower Game Project
+
+[Day 15](https://github.com/Mrezamaleki/100_days_py/tree/main/day_015) - Beginner - Local Development Environment Setup & the Coffee Machine
