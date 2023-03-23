@@ -33,4 +33,6 @@ My implementation of the course 100 Days of Code: The Complete Python Pro Bootca
 
 [Day 15](https://github.com/Mrezamaleki/100_days_py/tree/main/day_015) - Intermediate - Local Development Environment Setup & the Coffee Machine
 
-[Day 16](https://github.com/Mrezamaleki/100_days_py/tree/main/day_015) - Intermediate - Object Oriented Programming (OOP)
+[Day 16](https://github.com/Mrezamaleki/100_days_py/tree/main/day_016) - Intermediate - Object Oriented Programming (OOP)
+
+[Day 17](https://github.com/Mrezamaleki/100_days_py/tree/main/day_017) - Intermediate - The Quiz Project & The Benefits of OOP
